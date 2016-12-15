@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this lab, you are required to implement a collections similar to *java.util.ArrayList*.
+In this lab, you are required to implement a collections framework similar to *java.util.ArrayList*.
 
 
 
