@@ -30,6 +30,10 @@ If you cannot understand the Java documentation, read it again until you can sol
 Best wishes. 
 
 
+## Warnings
+
+You are forbidden to use *ArrayList* as internal implementation in the *MyArrayList*, or you will get a score of 0 point.
+
 
 ## Task 1
 
