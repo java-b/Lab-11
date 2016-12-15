@@ -58,8 +58,10 @@ public class Evaluation {
         boolean task3=true;
         int times=0;
         if(iterator!=null) {
-            while (iterator.hasNext())
+            while (iterator.hasNext()){
                 times++;
+                iterator.next();
+            }
             task3 &= times == 5;
             if (times == 5) {
                 iterator = list.iterator();
