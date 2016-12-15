@@ -55,7 +55,7 @@ public boolean add(Object o);
 public Object get(int index);
 public int size();
 public int isEmpty();
-public Object remove(int index);
+public Object remove(Object o);
 public void clear();
 ```
 
