@@ -32,7 +32,7 @@ Best wishes.
 
 ## Warnings
 
-You are forbidden to use *ArrayList* as internal implementation in the *MyArrayList*, or you will get a score of 0 point.
+You are forbidden to use any class in the package *java.util*, for example, *java.util.ArrayList*, as internal implementation (interitance, internal class, etc.) in the *MyArrayList*, or you will get a score of 0 point.
 
 
 ## Task 1
