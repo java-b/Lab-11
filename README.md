@@ -1,5 +1,14 @@
 # Lab 11
 
+## NOTICE
+
+Students who have downloaded the lab files before `16:30 2016/12/15` please update your **Evaluation.java**.
+
+There is something wrong with the evaluation code for **task 3**, but **task 1/2** will work correctly.
+
+Thanks for `Huang Lingqi`'s help and sorry for my mistake.
+
+
 ## Overview
 
 In this lab, you are required to implement a collections framework similar to *java.util.ArrayList*.
