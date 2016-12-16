@@ -81,7 +81,7 @@ You need to implement the following methods:
 
 **Q: What does an iterator mean???**
 
-**A: Wu Ke Feng Gao. See the Java doc. :)**
+**A: Wu Ke Feng Gao. See the Java doc. By the way, you just need to implement the `hasNext()` and `next()` method in an iterator :)**
 
 *For more information refer to http://docs.oracle.com/javase/8/docs/api/java/util/Iterator.html for help.*
 
